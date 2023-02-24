@@ -37,8 +37,8 @@
 <body style="background-color:#cc00ff;color:black;style:font-size:60px;">
 
 
-<button class="button button1" onclick="window.location.href='/tristan/combat.php'">ROCHE,PAPIER,CISEAU 2.0</button>
-<button class="button button2" onclick="window.location.href='/tristan/index2.php'">CALCULATRICE</button>
+<button class="button button1" onclick="window.location.href='combat.php'">ROCHE,PAPIER,CISEAU 2.0</button>
+<button class="button button2" onclick="window.location.href='index2.php'">CALCULATRICE</button>
 
 
 
