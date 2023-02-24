@@ -25,13 +25,13 @@
 
 </div>
 <div align="center">
-<img src="/tristan/roche.png"/ width="160px">
+<img src="roche.png" width="160px">
 
-<img src="/tristan/papier.png"/ width="160px">
+<img src="papier.png" width="160px">
 
-<img src="/tristan/ciseau.png"/ width="160px">
+<img src="ciseau.png" width="160px">
 
-<img src="/tristan/Feu.png"/ width="160px">
+<img src="Feu.png" width="160px">
 </div>
 <div style="padding-top:60px;" align="right"> Créé par TRISTAN OMG
 </div>
