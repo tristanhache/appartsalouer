@@ -170,7 +170,7 @@ Tu as choisi: <?php echo $choix; ?> <br>
 J'ai choisi: <?php echo $ordi; ?> <br>
 Tu as <?php echo $resultat; ?> <br>
 SCORE TOTAL: <?php echo $score; ?> <br>
-<a href="/tristan/combat.php">Recommencer</a>
+<a href="combat.php">Recommencer</a>
 </div>
 
 </body>
